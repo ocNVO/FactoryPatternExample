@@ -10,6 +10,7 @@ class ShipTransporter implements Transporter
 
     public function display()
     {
-        echo "Your product will be shipped by means of a ship";
+        echo "<p style='font-weight: bold; font-family: Arial,serif; font-size: 24px; font-style: italic'>
+                Your product will be shipped by means of a ship!</p>";
     }
 }

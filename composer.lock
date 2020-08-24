@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "dff171dfdf44b67d3e431a3417494b92",
+    "content-hash": "179ce942215058750b9c7f2d66207ff1",
     "packages": [
         {
             "name": "doctrine/instantiator",
@@ -798,12 +798,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "2b3e5ab91366f779d1790a2b8c49299941eb5750"
+                "reference": "161497febc5ef76ff0b4975315c5523166906db9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/2b3e5ab91366f779d1790a2b8c49299941eb5750",
-                "reference": "2b3e5ab91366f779d1790a2b8c49299941eb5750",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/161497febc5ef76ff0b4975315c5523166906db9",
+                "reference": "161497febc5ef76ff0b4975315c5523166906db9",
                 "shasum": ""
             },
             "require": {
@@ -889,7 +889,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2020-08-24T05:37:26+00:00"
+            "time": "2020-08-24T15:28:21+00:00"
         },
         {
             "name": "sebastian/cli-parser",
@@ -2017,10 +2017,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "squizlabs/php_codesniffer": 20,
-        "phpunit/phpunit": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
