@@ -1,9 +1,9 @@
 <?php
 
 
-namespace Transporters;
+namespace Src\Transporters;
 
-use Interfaces\Transporter;
+use Src\Interfaces\Transporter;
 
 class TruckTransporter implements Transporter
 {

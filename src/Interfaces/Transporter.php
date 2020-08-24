@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Interfaces;
+namespace Src\Interfaces;
 
 interface Transporter
 {

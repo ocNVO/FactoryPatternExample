@@ -6,9 +6,9 @@ use Factories\PlaneTransporterFactory;
 use Factories\ShipTransporterFactory;
 use Factories\TruckTransporterFactory;
 use PHPUnit\Framework\TestCase;
-use Transporters\PlaneTransporter;
-use Transporters\ShipTransporter;
-use Transporters\TruckTransporter;
+use Src\Transporters\PlaneTransporter;
+use Src\Transporters\ShipTransporter;
+use Src\Transporters\TruckTransporter;
 
 class FactoryTest extends TestCase
 {

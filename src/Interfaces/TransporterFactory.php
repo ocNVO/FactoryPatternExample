@@ -1,8 +1,8 @@
 <?php declare(strict_types=1);
 
-namespace Interfaces;
+namespace Src\Interfaces;
 
-use Interfaces\Transporter;
+use Src\Interfaces\Transporter;
 
 interface TransporterFactory
 {

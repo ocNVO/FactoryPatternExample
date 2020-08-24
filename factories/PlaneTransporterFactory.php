@@ -2,9 +2,9 @@
 
 namespace Factories;
 
-use Transporters\PlaneTransporter;
-use Interfaces\Transporter;
-use Interfaces\TransporterFactory;
+use Src\Transporters\PlaneTransporter;
+use Src\Interfaces\Transporter;
+use Src\Interfaces\TransporterFactory;
 
 class PlaneTransporterFactory implements TransporterFactory
 {
